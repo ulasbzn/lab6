@@ -1,6 +1,6 @@
-# Student Name: Cengiz Muhammed Gökakın
+# Student Name: ULAŞ BOZAN 
 
-# Student ID: 220408040
+# Student ID: 230408801
 
 # ProfileApp
 
